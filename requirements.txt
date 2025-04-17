@@ -1,0 +1,13 @@
+langchain-core
+langgraph==0.3.21
+langchain-google-genai==2.1.2
+langgraph-prebuilt==0.1.7
+langchain-google-genai
+langgraph
+python-dotenv
+pandas
+streamlit
+ipython
+google-auth 
+google-auth-oauthlib 
+google-genai
